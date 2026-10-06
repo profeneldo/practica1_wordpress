@@ -17,4 +17,6 @@
 <p>las páginas html que tienen que agregar deben estar en la carpeta pages</p>
 <p>hay un archivo style.css creado pero está vacio</p>
 
+<h4> Páginas </h4>
+Home | Conocenos | Menu | Contacto | Delivery
 
